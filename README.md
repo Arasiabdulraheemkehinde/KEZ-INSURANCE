@@ -62,3 +62,4 @@ The analysis for KEZ Insurance Company reveals important insights into the claim
 <img width="959" alt="Car insurance Screenshot 1" src="https://github.com/user-attachments/assets/fb055ed4-7d90-4c73-bcb5-1ffbc1e37097">
 <img width="958" alt="Car insurance Screenshot 2" src="https://github.com/user-attachments/assets/14820870-e448-4007-a86e-38603160840b">
 <img width="957" alt="Car insurance Screenshot 3 " src="https://github.com/user-attachments/assets/e06c47d1-d68b-4b55-a8d5-1917595998f7">
+https://public.tableau.com/app/profile/arasi.abdulraheem.kehinde/viz/ProjectWorkTableau_17177049506720/Story1?publish=yes
